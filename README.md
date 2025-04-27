@@ -7,7 +7,6 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [VeraBelladonna/verabelladonna.github.io](https://github.com/VeraBelladonna/verabelladonna.github.io) - 
 ### 🌱 My latest projects
 
 - [VeraBelladonna/verabelladonna.github.io](https://github.com/VeraBelladonna/verabelladonna.github.io) - 
