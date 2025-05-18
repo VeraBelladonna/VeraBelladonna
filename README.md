@@ -10,7 +10,6 @@
 - [RefTec/reftec.github.io](https://github.com/RefTec/reftec.github.io) - 
 ### 🌱 My latest projects
 
-- [VeraBelladonna/reftec.github.io](https://github.com/VeraBelladonna/reftec.github.io) - 
 - [VeraBelladonna/verabelladonna.github.io](https://github.com/VeraBelladonna/verabelladonna.github.io) - 
 ### 🔨 My recent Pull Requests
 
@@ -22,7 +21,4 @@
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [GenderDysphoria/GenderDysphoria.fyi](https://github.com/GenderDysphoria/GenderDysphoria.fyi) - Site code
 ### 📫 How to reach me:
-  - Youtube   : <https://youtube.com/c/>
-  - Twitch    : <https://twitch.tv/>
-  - Twitter   : <https://twitter.com/>
-  - Website   : <https://>
+  - Website   : <https://www.veradonna.co.za>
