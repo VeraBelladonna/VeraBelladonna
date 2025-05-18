@@ -20,7 +20,4 @@
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 ### 📫 How to reach me:
-  - Youtube   : <https://youtube.com/c/>
-  - Twitch    : <https://twitch.tv/>
-  - Twitter   : <https://twitter.com/>
-  - Website   : <https://>
+  - Website   : <https://veradonna.co.za>
