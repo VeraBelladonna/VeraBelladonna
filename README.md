@@ -10,7 +10,6 @@
 ### 🌱 My latest projects
 
 - [VeraBelladonna/verabelladonna.github.io](https://github.com/VeraBelladonna/verabelladonna.github.io) - 
-- [VeraBelladonna/cmdline-diceroller](https://github.com/VeraBelladonna/cmdline-diceroller) - A basic C# dice rolling program 
 ### 🔨 My recent Pull Requests
 
 ### ⭐ Recent Stars
