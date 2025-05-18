@@ -22,7 +22,4 @@
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
 ### 📫 How to reach me:
-  - Youtube   : <https://youtube.com/c/>
-  - Twitch    : <https://twitch.tv/>
-  - Twitter   : <https://twitter.com/>
-  - Website   : <https://>
+  - Website   : <https://www.veradonna.co.za>
