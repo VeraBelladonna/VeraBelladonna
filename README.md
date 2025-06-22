@@ -1,5 +1,6 @@
 <p align="center"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=VeraBelladonna&background=DD272700&currStreakNum=7B8B8B&sideNums=7B8B8B&currStreakLabel=7B8B8B&sideLabels=7B8B8B&dates=7B8B8B" alt="VeraBelladonna_Github_Streaks"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Veradonna.png" alt="Your Image Badge" />
 </a></p>
 
 <p align="center"><img src="https://github.com/VeraBelladonna/VeraBelladonna/blob/output/generated/languages.svg" alt="VeraBelladonna_Coding_Language_Usage" />
