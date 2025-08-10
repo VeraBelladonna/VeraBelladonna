@@ -10,6 +10,7 @@
 ### 👷 Check out what I'm currently working on
 
 - [RefTec/reftec.github.io](https://github.com/RefTec/reftec.github.io) - 
+- [VeraBelladonna/verabelladonna.github.io](https://github.com/VeraBelladonna/verabelladonna.github.io) - 
 ### 🌱 My latest projects
 
 - [VeraBelladonna/verabelladonna.github.io](https://github.com/VeraBelladonna/verabelladonna.github.io) - 
@@ -17,10 +18,10 @@
 
 ### ⭐ Recent Stars
 
+- [tomohiron907/Strecs3D](https://github.com/tomohiron907/Strecs3D) - 
 - [BushidoUK/Open-source-tools-for-CTI](https://github.com/BushidoUK/Open-source-tools-for-CTI) - Public Repository of Open Source Tools for Cyber Threat Intelligence Analysts and Researchers
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [GenderDysphoria/GenderDysphoria.fyi](https://github.com/GenderDysphoria/GenderDysphoria.fyi) - Site code
 ### 📫 How to reach me:
   - Website   : <https://www.veradonna.co.za>
