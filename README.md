@@ -9,8 +9,6 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [RefTec/reftec.github.io](https://github.com/RefTec/reftec.github.io) - 
-- [VeraBelladonna/verabelladonna.github.io](https://github.com/VeraBelladonna/verabelladonna.github.io) - 
 ### 🌱 My latest projects
 
 - [VeraBelladonna/verabelladonna.github.io](https://github.com/VeraBelladonna/verabelladonna.github.io) - 
